@@ -43,6 +43,7 @@ Ensure the dataset (`Artificial_Data.xlsx`) is placed in the same directory as t
 |-- data/                # Dataset files
 |-- notebook[Code file]  # Jupyter Notebooks
 |-- README.md            # Project documentation
+|-- Project Report.pdf   # Project Report 
 |-- requirement.txt     # Required Python packages
 ```
 

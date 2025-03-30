@@ -1,0 +1,13 @@
+matplotlib
+nltk
+numpy
+pandas
+re
+scipy
+seaborn
+shap
+sklearn
+string
+textblob
+warnings
+xgboost

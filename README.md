@@ -17,7 +17,7 @@ This project applies Natural Language Processing (NLP) and structured data analy
 To set up the environment, install dependencies using:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 ```
 
@@ -43,7 +43,7 @@ Ensure the dataset (`Artificial_Data.xlsx`) is placed in the same directory as t
 |-- data/                # Dataset files
 |-- notebook[Code file]  # Jupyter Notebooks
 |-- README.md            # Project documentation
-|-- requirements.txt     # Required Python packages
+|-- requirement.txt     # Required Python packages
 ```
 
 
